@@ -1,0 +1,16 @@
+{
+  "name": "would-you-rather",
+  "version": "1.0.0",
+  "description": "A slack app where you choose which one of two options you would do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamed Ahmatovic",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^2.0.0",
+    "firebase": "^7.17.1",
+    "firebase-admin": "^9.0.0"
+  }
+}
