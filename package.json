@@ -11,6 +11,6 @@
   "dependencies": {
     "@slack/bolt": "^2.0.0",
     "firebase": "^7.17.1",
-    "firebase-admin": "^9.0.0"
+    "firebase-admin": "^11.4.1"
   }
 }
